@@ -54,3 +54,6 @@ int main(){
 //     }
 duplicate(arr,size);
 }
+
+
+// new thing
